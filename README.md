@@ -25,5 +25,5 @@ Untuk meng-clone dan menjalankan aplikasi di komputer lokal Anda, ikuti langkah-
 ### 1. Clone Repository
 1. Buka terminal atau Git Bash.
 2. Gunakan perintah berikut untuk meng-clone repository ini ke komputer lokal Anda:
-   ```bash
-   git clone https://github.com/username/repository-name.git
+```bash
+git clone https://github.com/hadzikk/Sistem-Pengelolaan-Inventaris-Obat.git

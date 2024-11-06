@@ -1,0 +1,16 @@
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\bin\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.exe
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\bin\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.deps.json
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\bin\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.runtimeconfig.json
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\bin\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.dll
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\bin\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.pdb
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem_Pengelolaan_Inventaris_Obat.Form1.resources
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.csproj.GenerateResource.cache
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.AssemblyInfoInputs.cache
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.AssemblyInfo.cs
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.csproj.CoreCompileInputs.cache
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.dll
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\refint\Sistem Pengelolaan Inventaris Obat.dll
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.pdb
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\Sistem Pengelolaan Inventaris Obat.genruntimeconfig.cache
+D:\Windows Form App C#\Sistem Pengelolaan Inventaris Obat\Sistem Pengelolaan Inventaris Obat\obj\Debug\net8.0-windows\ref\Sistem Pengelolaan Inventaris Obat.dll
